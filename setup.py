@@ -8,7 +8,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 __version__ = "0.0.1"
 REPO_NAME = "mongodbpackage"
 PKG_NAME= "Mongodb_JConnect"
-AUTHOR_USER_NAME = "Joston_Saldanha"
+AUTHOR_USER_NAME = "JostonSaldanha"
 AUTHOR_EMAIL = "jostonsaldanha0@gmail.com"
 
 setup(
