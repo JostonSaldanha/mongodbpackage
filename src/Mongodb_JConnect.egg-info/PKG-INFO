@@ -2,11 +2,11 @@ Metadata-Version: 2.1
 Name: Mongodb_JConnect
 Version: 0.0.1
 Summary: A python package for connecting with database.
-Home-page: https://github.com/Joston_Saldanha/mongodbpackage
-Author: Joston_Saldanha
+Home-page: https://github.com/JostonSaldanha/mongodbpackage
+Author: JostonSaldanha
 Author-email: jostonsaldanha0@gmail.com
 License: MIT
-Project-URL: Bug Tracker, https://github.com/Joston_Saldanha/mongodbpackage/issues
+Project-URL: Bug Tracker, https://github.com/JostonSaldanha/mongodbpackage/issues
 Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
