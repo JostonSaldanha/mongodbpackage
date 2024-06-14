@@ -5,19 +5,19 @@ It makes it easier to install and manage dependencies for development and testin
 
 # difference between requirements_dev.txt and requirements.txt
 
-[](https://github.com/sunnysavita10/mongodbconnectorpkg/blob/main/README.md#difference-between-requirements_devtxt-and-requirementstxt)
+[](https://github.com/JostonSaldanha/mongodbpackage/blob/main/README.md#difference-between-requirements_devtxt-and-requirementstxt)
 
 requirements.txt is used to specify the dependencies required to run the production code of a Python project, while requirements_dev.txt is used to specify the dependencies required for development and testing purposes.
 
 # tox.ini
 
-[](https://github.com/sunnysavita10/mongodbconnectorpkg/blob/main/README.md#toxini)
+[](https://github.com/JostonSaldanha/mongodbpackage/blob/main/README.md#toxini)
 
 We use if for the testing in the python package testing against different version of the python
 
 ## how tox works tox enviornment creation
 
-[](https://github.com/sunnysavita10/mongodbconnectorpkg/blob/main/README.md#how-tox-works-tox-enviornment-creation)
+[](https://github.com/JostonSaldanha/mongodbpackage/blob/main/README.md#how-tox-works-tox-enviornment-creation)
 
 1. Install depedencies and packages
 2. Run commands
@@ -26,19 +26,19 @@ We use if for the testing in the python package testing against different versio
 
 # pyproject.toml
 
-[](https://github.com/sunnysavita10/mongodbconnectorpkg/blob/main/README.md#pyprojecttoml)
+[](https://github.com/JostonSaldanha/mongodbpackage/blob/main/README.md#pyprojecttoml)
 
 it is being used for configuration the python project it is a alternative of the setup.cfg file. its containts configuration related to the build system such as the build tool used package name version author license and dependencies
 
 # setup.cfg
 
-[](https://github.com/sunnysavita10/mongodbconnectorpkg/blob/main/README.md#setupcfg)
+[](https://github.com/JostonSaldanha/mongodbpackage/blob/main/README.md#setupcfg)
 
 In summary, setup.cfg is used by setuptools to configure the packaging and installation of a Python projec
 
 # Testing python application
 
-[](https://github.com/sunnysavita10/mongodbconnectorpkg/blob/main/README.md#testing-python-application)
+[](https://github.com/JostonSaldanha/mongodbpackage/blob/main/README.md#testing-python-application)
 
 *types of testing*
 
@@ -61,7 +61,7 @@ In summary, setup.cfg is used by setuptools to configure the packaging and insta
 
 # check with the code style formatting and syntax(coding standard)
 
-[](https://github.com/sunnysavita10/mongodbconnectorpkg/blob/main/README.md#check-with-the-code-style-formatting-and-syntaxcoding-standard)
+[](https://github.com/JostonSaldanha/mongodbpackage/blob/main/README.md#check-with-the-code-style-formatting-and-syntaxcoding-standard)
 
 1. pylint
 2. flake8(it is best because it containt 3 library pylint pycodestyle mccabe)
